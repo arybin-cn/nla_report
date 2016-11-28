@@ -1,0 +1,112 @@
+precision->1	mgs_err->0.62381	clgs_err:mgs_err->2.1401
+precision->2	mgs_err->0.056618	clgs_err:mgs_err->2.8875
+precision->3	mgs_err->0.011482	clgs_err:mgs_err->4.8707
+precision->4	mgs_err->0.0004481	clgs_err:mgs_err->4.7336
+precision->5	mgs_err->7.4736e-005	clgs_err:mgs_err->1.0392
+precision->6	mgs_err->8.1558e-006	clgs_err:mgs_err->2.581
+precision->7	mgs_err->1.0862e-006	clgs_err:mgs_err->4.5404
+precision->8	mgs_err->8.8577e-008	clgs_err:mgs_err->5.0856
+precision->9	mgs_err->7.88e-009	clgs_err:mgs_err->3.5728
+precision->10	mgs_err->9.2396e-010	clgs_err:mgs_err->4.8213
+precision->11	mgs_err->8.2412e-011	clgs_err:mgs_err->4.0029
+precision->12	mgs_err->8.397e-012	clgs_err:mgs_err->2.4524
+precision->13	mgs_err->3.1458e-013	clgs_err:mgs_err->1
+precision->14	mgs_err->4.1845e-014	clgs_err:mgs_err->1.0363
+precision->15	mgs_err->1.2404e-014	clgs_err:mgs_err->3.5067
+precision->16	mgs_err->7.2868e-016	clgs_err:mgs_err->1
+precision->17	mgs_err->7.2868e-016	clgs_err:mgs_err->1
+precision->18	mgs_err->7.2868e-016	clgs_err:mgs_err->1
+precision->19	mgs_err->7.2868e-016	clgs_err:mgs_err->1
+precision->20	mgs_err->7.2868e-016	clgs_err:mgs_err->1
+precision->21	mgs_err->7.2868e-016	clgs_err:mgs_err->1
+precision->22	mgs_err->7.2868e-016	clgs_err:mgs_err->1
+precision->23	mgs_err->7.2868e-016	clgs_err:mgs_err->1
+precision->24	mgs_err->7.2868e-016	clgs_err:mgs_err->1
+precision->25	mgs_err->7.2868e-016	clgs_err:mgs_err->1
+precision->26	mgs_err->7.2868e-016	clgs_err:mgs_err->1
+precision->27	mgs_err->7.2868e-016	clgs_err:mgs_err->1
+precision->28	mgs_err->7.2868e-016	clgs_err:mgs_err->1
+precision->29	mgs_err->7.2868e-016	clgs_err:mgs_err->1
+precision->30	mgs_err->7.2868e-016	clgs_err:mgs_err->1
+precision->31	mgs_err->7.2868e-016	clgs_err:mgs_err->1
+precision->32	mgs_err->7.2868e-016	clgs_err:mgs_err->1
+
+W =
+
+    0.7420         0         0
+    0.2723    0.7866         0
+    0.4765    0.1192   -0.9800
+    0.2723   -0.4284    0.1842
+    0.2723   -0.4284   -0.0748
+
+
+R =
+
+   -9.8995   -9.4954   -9.6975
+   -0.0000   -3.2919   -3.0129
+   -0.0000         0    1.9701
+   -0.0000         0    0.0000
+   -0.0000         0         0
+
+
+Q =
+
+   -0.1010   -0.3162    0.5420   -0.6842   -0.3577
+   -0.4041   -0.3534    0.5162    0.3280    0.5812
+   -0.7071   -0.3906   -0.5248    0.0094   -0.2683
+   -0.4041    0.5580    0.3871    0.3656   -0.4918
+   -0.4041    0.5580   -0.1204   -0.5390    0.4695
+
+
+ans =
+
+  1.0e-014 *
+
+    0.1110    0.3553    0.3553
+         0         0         0
+    0.6217    0.1776    0.3553
+         0    0.1776    0.2220
+    0.2665    0.1776    0.2665
+
+
+mgs_Q =
+
+    0.1010    0.3162    0.5420
+    0.4041    0.3534    0.5162
+    0.7071    0.3906   -0.5248
+    0.4041   -0.5580    0.3871
+    0.4041   -0.5580   -0.1204
+
+
+house_Q =
+
+   -0.1010   -0.3162    0.5420
+   -0.4041   -0.3534    0.5162
+   -0.7071   -0.3906   -0.5248
+   -0.4041    0.5580    0.3871
+   -0.4041    0.5580   -0.1204
+
+
+mat_Q =
+
+   -0.1010   -0.3162    0.5420
+   -0.4041   -0.3534    0.5162
+   -0.7071   -0.3906   -0.5248
+   -0.4041    0.5580    0.3871
+   -0.4041    0.5580   -0.1204
+
+
+lsp =
+
+    1.0000    1.0000    1.0000    1.0000    1.0000    1.0000
+   -0.0000   -0.0000   -0.0000   -0.0000   -0.0000   -0.0000
+   -7.9999   -8.0000   -8.0000   -8.0000   -8.0000   -8.0000
+   -0.0022   -0.0003   -0.0003   -0.0003   -0.0003   -0.0003
+   10.6844   10.6694   10.6694   10.6694   10.6694   10.6694
+   -0.0818   -0.0138   -0.0138   -0.0138   -0.0138   -0.0138
+   -5.4531   -5.6471   -5.6471   -5.6471   -5.6471   -5.6471
+   -0.4327   -0.0753   -0.0753   -0.0753   -0.0753   -0.0753
+    2.1181    1.6936    1.6936    1.6936    1.6936    1.6936
+   -0.3078    0.0060    0.0060    0.0060    0.0060    0.0060
+   -0.2428   -0.3742   -0.3742   -0.3742   -0.3742   -0.3742
+    0.0642    0.0880    0.0880    0.0880    0.0880    0.0880

@@ -1,0 +1,31 @@
+Elapsed time is 0.000722 seconds.
+Elapsed time is 0.000691 seconds.
+Elapsed time is 0.001004 seconds.
+Elapsed time is 0.000725 seconds.
+Elapsed time is 0.002526 seconds.
+Elapsed time is 0.000083 seconds.
+Elapsed time is 0.001057 seconds.
+
+Elapsed time is 0.000953 seconds.
+Elapsed time is 0.000868 seconds.
+Elapsed time is 0.001157 seconds.
+Elapsed time is 0.000733 seconds.
+Elapsed time is 0.002252 seconds.
+Elapsed time is 0.000072 seconds.
+Elapsed time is 0.000935 seconds.
+
+Elapsed time is 0.000644 seconds.
+Elapsed time is 0.000658 seconds.
+Elapsed time is 0.001276 seconds.
+Elapsed time is 0.000482 seconds.
+Elapsed time is 0.001520 seconds.
+Elapsed time is 0.000049 seconds.
+Elapsed time is 0.000809 seconds.
+
+Elapsed time is 0.000758 seconds.
+Elapsed time is 0.000722 seconds.
+Elapsed time is 0.001009 seconds.
+Elapsed time is 0.000706 seconds.
+Elapsed time is 0.002415 seconds.
+Elapsed time is 0.000071 seconds.
+Elapsed time is 0.000932 seconds.
