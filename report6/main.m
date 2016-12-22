@@ -21,11 +21,11 @@ end
 dimen=32;
 I=eye(dimen);
 A=-I;
-A(2:dimen,1:dimen-1)=A(2:dimen,1:dimen-1)+eye(dimen-1);
 A(1:dimen-1,2:dimen)=A(1:dimen-1,2:dimen)+eye(dimen-1);
+A(1:dimen-2,3:dimen)=A(1:dimen-2,3:dimen)+eye(dimen-2);
 
-range=5;prec=0.1;Z=[];
-[X,Y]=meshgrid(-range:prec:range,-range:prec:range);
+range=5;prec=0.05;Z=[];
+[X,Y]=meshgrid(-range:prec:range);
 len=length(X);
 for k=1:len
   for l=1:len
@@ -46,7 +46,7 @@ contour(X,Y,Z,e);
 figure;
 x=0:50;
 y=[];
-for i=x
+for i=0:50
   y=[y norm(expm(i*A),2)];
 end
 semilogy(x,y);
